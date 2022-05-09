@@ -44,6 +44,12 @@ print(type(f))
 g = {"name" : "Thiago", "age" : 33}
 print(g)
 print(type(g))
+print (g['name'])
+print("name" in g)
+print(len(g))
+print(g.get("age"))
+print(g.items())
+print(g.keys())
 
 #set
 f = {"Laranja", "Maçã", "Pera"}
