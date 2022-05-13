@@ -1,3 +1,3 @@
 # python-studies
 
-Just a repository for my personal notes over my studies and some piece of python code :)
+Just a repository for personal notes over my studies and some pieces of python code :)
