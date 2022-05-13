@@ -34,7 +34,7 @@ def checkCPFlogic(cpfOnlyNumbers):
     else:
         secondDigit = 11-secondDigit
 
-    # checks with calculated digits match user input and returns the result
+    # checks if calculated digits match user input and returns the result
     if cpfOnlyNumbers[9] == firstDigit and cpfOnlyNumbers[10] == secondDigit:
         valid=True
     else:
